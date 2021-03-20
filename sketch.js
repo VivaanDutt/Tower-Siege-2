@@ -39,6 +39,7 @@ function setup() {
     block8 = new Block(420, 195, 30, 40);
 
     block9 = new Block(390, 155, 30, 40);
+    block9.shapeColor = "blue";
 }
 
 function draw() {
